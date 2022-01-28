@@ -25,7 +25,7 @@ It is strongly encouraged/recommended that you:
 - Work on the front-end following [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 - Work on bonus features last
 
-## Specific README For Your PRoject
+## Specific README For Your CTA Project
 
 - [Store App](https://github.com/joinpursuit/pern-store-project)
 
