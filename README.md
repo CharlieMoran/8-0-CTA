@@ -1,7 +1,7 @@
 # 8-0-CTA
 
 
-# CTA - Cumulative Technical Assessment -
+# CTA - Cumulative Technical Assessment 
 
 ## This is the final assessment for Modules 1-4
 
