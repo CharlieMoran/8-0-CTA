@@ -26,6 +26,10 @@ It is strongly encouraged/recommended that you:
 
 - [Store App](https://github.com/joinpursuit/pern-store-project)
 
+DUE: Check the canvas rubric for due date
+
+Note: There will be two Canvas assignments. One for your app and one will be an IR/LPD assignment. 
+
 
 ## Competencies
 
