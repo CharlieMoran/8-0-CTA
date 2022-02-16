@@ -6,7 +6,7 @@ This assessment will touch on all the knowledge you've gained in the last few mo
 
 To do this, you'll be building a `Store App` - a single model CRUD app API, using RESTful routes and consuming it with a `create-react-app` front-end.
 
-This is an individual assessment, so you may not collaborate iwtih your peers or anyone outside of your instructors.
+This is an individual assessment, so you may not collaborate with your peers or anyone outside of your instructors.
 
 This assessment is open book - you may reference your notes, previous work and use MDN/W3 schools
 
